@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MathApp
 {
-    internal class MathAppProgram
+    internal class MathProgram
     {
         static void Main(string[] args)
         {
